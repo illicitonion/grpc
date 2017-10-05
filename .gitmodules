@@ -13,7 +13,8 @@
 	url = https://github.com/google/googletest.git
 [submodule "third_party/boringssl"]
 	path = third_party/boringssl
-	url = https://github.com/google/boringssl.git
+	url = https://github.com/illicitonion/boringssl.git
+	branch = wunusedvalue
 [submodule "third_party/benchmark"]
 	path = third_party/benchmark
 	url = https://github.com/google/benchmark
