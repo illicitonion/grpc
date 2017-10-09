@@ -14,7 +14,7 @@
 [submodule "third_party/boringssl"]
 	path = third_party/boringssl
 	url = https://github.com/illicitonion/boringssl.git
-	branch = wunusedvalue
+	branch = warraybounds
 [submodule "third_party/benchmark"]
 	path = third_party/benchmark
 	url = https://github.com/google/benchmark
